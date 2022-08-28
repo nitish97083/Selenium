@@ -1,0 +1,16 @@
+2022-08-26 14:54:47.067 ERROR [main] [LogTest.main(LogTest.java:50)] - This is error log
+2022-08-26 14:54:47.075 TRACE [main] [LogTest.main(LogTest.java:51)] - this is trace error 
+2022-08-26 14:54:47.075 DEBUG [main] [LogTest.main(LogTest.java:53)] - C://code//driver//msedgedriver.exe;
+2022-08-26 14:54:47.075 INFO [main] [LogTest.loggerTest(LogTest.java:20)] - This is my first log4j's statement
+2022-08-26 14:54:47.075 DEBUG [main] [LogTest.loggerTest(LogTest.java:27)] - message 
+2022-08-26 14:54:47.079 DEBUG [main] [LogTest.loggerTest(LogTest.java:28)] - out this 
+2022-08-26 14:54:47.079 INFO [main] [LogTest.loggerTest(LogTest.java:33)] - catch block 
+2022-08-26 14:54:47.079 INFO [main] [LogTest.loggerTest(LogTest.java:37)] - This is my first log4j's statement
+2022-08-26 14:56:21.830 ERROR [main] [LogTest.main(LogTest.java:50)] - This is error log
+2022-08-26 14:56:21.838 TRACE [main] [LogTest.main(LogTest.java:51)] - this is trace error 
+2022-08-26 14:56:21.838 DEBUG [main] [LogTest.main(LogTest.java:53)] - C://code//driver//msedgedriver.exe;
+2022-08-26 14:56:21.838 INFO [main] [LogTest.loggerTest(LogTest.java:20)] - This is my first log4j's statement
+2022-08-26 14:56:21.842 DEBUG [main] [LogTest.loggerTest(LogTest.java:27)] - message 
+2022-08-26 14:56:21.842 DEBUG [main] [LogTest.loggerTest(LogTest.java:28)] - out this 
+2022-08-26 14:56:21.842 INFO [main] [LogTest.loggerTest(LogTest.java:33)] - catch block 
+2022-08-26 14:56:21.842 INFO [main] [LogTest.loggerTest(LogTest.java:37)] - This is my first log4j's statement

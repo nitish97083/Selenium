@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<suite  name = "Practices">
-    <test  name = "Facebook" >
-        <parameter name = "url" value = "https://www.facebook.com/"/>
-        <parameter name = "browser" value="EDGE"/>
+<suite name="Practices">
+    <test name="Facebook">
+        <parameter name="url" value="https://www.facebook.com/"/>
+        <parameter name="browser" value="EDGE"/>
         <classes>
             <!--<parameter name = "userName" value = "rahulshettyacademy"/>
             <parameter name = "password" value = "learning"/> !-->
-            <class name = "TestCases.HomePageTest">
+            <class name="TestCases.HomePageTest">
 
             </class>
         </classes>

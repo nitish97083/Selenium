@@ -1,0 +1,16 @@
+[ERROR] 2022-08-26 15:12:41.992 [main] LogTest - This is error log
+[TRACE] 2022-08-26 15:12:41.996 [main] LogTest - this is trace error 
+[DEBUG] 2022-08-26 15:12:41.996 [main] LogTest - C://code//driver//msedgedriver.exe;
+[INFO ] 2022-08-26 15:12:41.996 [main] LogTest - This is my first log4j's statement
+[DEBUG] 2022-08-26 15:12:42.000 [main] LogTest - message 
+[DEBUG] 2022-08-26 15:12:42.000 [main] LogTest - out this 
+[INFO ] 2022-08-26 15:12:42.000 [main] LogTest - catch block 
+[INFO ] 2022-08-26 15:12:42.000 [main] LogTest - This is my first log4j's statement
+[ERROR] 2022-08-26 15:14:08.056 [main] LogTest - This is error log
+[TRACE] 2022-08-26 15:14:08.068 [main] LogTest - this is trace error 
+[DEBUG] 2022-08-26 15:14:08.068 [main] LogTest - C://code//driver//msedgedriver.exe;
+[INFO ] 2022-08-26 15:14:08.068 [main] LogTest - This is my first log4j's statement
+[DEBUG] 2022-08-26 15:14:08.072 [main] LogTest - message 
+[DEBUG] 2022-08-26 15:14:08.072 [main] LogTest - out this 
+[INFO ] 2022-08-26 15:14:08.072 [main] LogTest - catch block 
+[INFO ] 2022-08-26 15:14:08.072 [main] LogTest - This is my first log4j's statement
