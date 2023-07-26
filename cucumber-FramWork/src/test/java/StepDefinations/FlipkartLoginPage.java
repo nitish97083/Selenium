@@ -18,17 +18,7 @@ public class FlipkartLoginPage {
 
 
     WebDriverWait wait ;
-    @Given("Driver and system setup")
-    public void driver_and_system_setup() {
-        // Write code here that turns the phrase above into concrete actions
-        System.setProperty(EDGE_DRIVER,DRIVER_PATH);
-        System.out.println("Property set");
-        driver = new EdgeDriver();
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
-
-    }
 
     @And("Navigate to url {string}")
     public void navigate_to_url(String url) {

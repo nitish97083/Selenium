@@ -5,15 +5,12 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
-
 @RunWith(Cucumber.class)
 @CucumberOptions(
-          features = "src/test/java/FeatureT/day2.feature",
-          glue ="StepDefinationT"
-          // dryRun = flase
-)
-public class LoginPageTestRunner {
-
-
+        features = "src/test/java/FeatureT/cart.feature",
+        glue ="StepDefinationT"
+        // dryRun = flase
+        )
+public class CartRunner {
 
 }
